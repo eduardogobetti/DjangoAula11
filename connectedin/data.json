@@ -1,0 +1,22 @@
+[
+  {
+    "model": "perfis.perfil",
+    "pk": 1,
+    "fields": {
+      "nome": "Shimira San",
+      "email": "Shimira@chello.com",
+      "telefone":"190",
+      "nome_empresa":"Hirauata"
+    }
+  },
+  {
+    "model": "perfis.perfil",
+    "pk": 2,
+    "fields": {
+      "nome": "Ozzob",
+      "email": "Ozzob@Maluco.com",
+      "telefone":"190",
+      "nome_empresa":"Nenhuma"
+    }
+  }
+]
